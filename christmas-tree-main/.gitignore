@@ -1,0 +1,12 @@
+# 必须忽略的
+node_modules/
+dist/
+build/
+.DS_Store
+
+# 忽略环境配置
+.env
+.env.local
+
+# VS Code 配置
+.vscode/
